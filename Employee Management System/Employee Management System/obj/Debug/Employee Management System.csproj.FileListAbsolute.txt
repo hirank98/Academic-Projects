@@ -1,0 +1,548 @@
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee_Management_System.AdminLogin.resources
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee_Management_System.DataView.resources
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee_Management_System.DeleteEmployee.resources
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee_Management_System.Home.resources
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\Chalaka\source\repos\Employee Management System\bin\Debug\Employee Management System.exe.config
+C:\Users\Chalaka\source\repos\Employee Management System\bin\Debug\Employee Management System.exe
+C:\Users\Chalaka\source\repos\Employee Management System\bin\Debug\Employee Management System.pdb
+C:\Users\Chalaka\source\repos\Employee Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Chalaka\source\repos\Employee Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\Chalaka\source\repos\Employee Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Chalaka\source\repos\Employee Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Chalaka\source\repos\Employee Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Chalaka\source\repos\Employee Management System\bin\Debug\MySql.Data.dll
+C:\Users\Chalaka\source\repos\Employee Management System\bin\Debug\System.Buffers.dll
+C:\Users\Chalaka\source\repos\Employee Management System\bin\Debug\System.Memory.dll
+C:\Users\Chalaka\source\repos\Employee Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Chalaka\source\repos\Employee Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Chalaka\source\repos\Employee Management System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Chalaka\source\repos\Employee Management System\bin\Debug\Zstandard.Net.dll
+C:\Users\Chalaka\source\repos\Employee Management System\bin\Debug\Google.Protobuf.pdb
+C:\Users\Chalaka\source\repos\Employee Management System\bin\Debug\Google.Protobuf.xml
+C:\Users\Chalaka\source\repos\Employee Management System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Chalaka\source\repos\Employee Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Chalaka\source\repos\Employee Management System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Chalaka\source\repos\Employee Management System\bin\Debug\MySql.Data.xml
+C:\Users\Chalaka\source\repos\Employee Management System\bin\Debug\System.Buffers.xml
+C:\Users\Chalaka\source\repos\Employee Management System\bin\Debug\System.Memory.xml
+C:\Users\Chalaka\source\repos\Employee Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Chalaka\source\repos\Employee Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee Management System.csproj.CopyComplete
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee Management System.exe
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee Management System.pdb
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee_Management_System.EditEmployee.resources
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee_Management_System.EmpLeave.resources
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee_Management_System.EmployeeHome.resources
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee_Management_System.Staffadd.resources
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee_Management_System.StaffLogin.resources
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee_Management_System.StaffSignup.resources
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee_Management_System.ViewEmployee.resources
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee_Management_System.ViewLeave.resources
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee_Management_System.AddManager.resources
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee_Management_System.AddOption.resources
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee_Management_System.AdminHome.resources
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee_Management_System.ManagerSignup.resources
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee_Management_System.Welcome.resources
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee_Management_System.DeleteManager.resources
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee_Management_System.EditManagers.resources
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee_Management_System.ViewManager.resources
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee_Management_System.EditOption.resources
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee_Management_System.ViewOption.resources
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee_Management_System.ManagerHome.resources
+C:\Users\Chalaka\source\repos\Employee Management System\obj\Debug\Employee_Management_System.ManagerLogin.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe.config
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\Employee Management System.pdb
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\MySql.Data.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\System.Buffers.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\System.Memory.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\Zstandard.Net.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\Google.Protobuf.pdb
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\Google.Protobuf.xml
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\MySql.Data.xml
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\System.Buffers.xml
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\System.Memory.xml
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AddManager.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AddOption.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AdminHome.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AdminLogin.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.DataView.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.DeleteEmployee.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.DeleteManager.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EditEmployee.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EditManagers.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EditOption.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EmpLeave.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EmployeeHome.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Home.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ManagerHome.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ManagerLogin.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ManagerSignup.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Staffadd.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.StaffLogin.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.StaffSignup.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ViewEmployee.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ViewLeave.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ViewManager.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ViewOption.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Welcome.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CopyComplete
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee Management System.exe
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe.config
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Employee Management System.pdb
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\MySql.Data.dll
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Buffers.dll
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Memory.dll
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Zstandard.Net.dll
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Google.Protobuf.pdb
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Google.Protobuf.xml
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\MySql.Data.xml
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Buffers.xml
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Memory.xml
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AddManager.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AddOption.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AdminHome.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AdminLogin.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.DataView.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.DeleteEmployee.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.DeleteManager.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EditEmployee.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EditManagers.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EditOption.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EmpLeave.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EmployeeHome.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Home.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ManagerHome.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ManagerLogin.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ManagerSignup.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Staffadd.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.StaffLogin.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.StaffSignup.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ViewEmployee.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ViewLeave.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ViewManager.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ViewOption.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Welcome.resources
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CopyComplete
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.exe
+C:\Users\Chalaka\Downloads\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe.config
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Employee Management System.pdb
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\BouncyCastle.Crypto.dll
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Google.Protobuf.dll
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Compression.LZ4.dll
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Hash.xxHash.dll
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\MySql.Data.dll
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Buffers.dll
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Memory.dll
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Numerics.Vectors.dll
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Ubiety.Dns.Core.dll
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Zstandard.Net.dll
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Google.Protobuf.pdb
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Google.Protobuf.xml
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Compression.LZ4.xml
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Hash.xxHash.xml
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\MySql.Data.xml
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Buffers.xml
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Memory.xml
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Numerics.Vectors.xml
+E:\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AddManager.resources
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AddOption.resources
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AdminHome.resources
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AdminLogin.resources
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.DataView.resources
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.DeleteEmployee.resources
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.DeleteManager.resources
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EditEmployee.resources
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EditManagers.resources
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EditOption.resources
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EmpLeave.resources
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EmployeeHome.resources
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Home.resources
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ManagerHome.resources
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ManagerLogin.resources
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ManagerSignup.resources
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Staffadd.resources
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.StaffLogin.resources
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.StaffSignup.resources
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ViewEmployee.resources
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ViewLeave.resources
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ViewManager.resources
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ViewOption.resources
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Welcome.resources
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CopyComplete
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.exe
+E:\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe.config
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Employee Management System.pdb
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\MySql.Data.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Buffers.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Memory.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Zstandard.Net.dll
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Google.Protobuf.pdb
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Google.Protobuf.xml
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\MySql.Data.xml
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Buffers.xml
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Memory.xml
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AddManager.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AddOption.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AdminHome.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AdminLogin.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.DataView.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.DeleteEmployee.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.DeleteManager.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EditEmployee.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EditManagers.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EditOption.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EmpLeave.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EmployeeHome.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Home.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ManagerHome.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ManagerLogin.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ManagerSignup.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Staffadd.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.StaffLogin.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.StaffSignup.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ViewEmployee.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ViewLeave.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ViewManager.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ViewOption.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Welcome.resources
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CopyComplete
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.exe
+C:\Users\ACER\Desktop\Sunday\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe.config
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Employee Management System.pdb
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\BouncyCastle.Crypto.dll
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Google.Protobuf.dll
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Compression.LZ4.dll
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Hash.xxHash.dll
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\MySql.Data.dll
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Buffers.dll
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Memory.dll
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Numerics.Vectors.dll
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Ubiety.Dns.Core.dll
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Zstandard.Net.dll
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Google.Protobuf.pdb
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Google.Protobuf.xml
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Compression.LZ4.xml
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Hash.xxHash.xml
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\MySql.Data.xml
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Buffers.xml
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Memory.xml
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Numerics.Vectors.xml
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AddManager.resources
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AddOption.resources
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AdminHome.resources
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AdminLogin.resources
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.DataView.resources
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.DeleteEmployee.resources
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.DeleteManager.resources
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EditEmployee.resources
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EditManagers.resources
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EditOption.resources
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EmpLeave.resources
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EmployeeHome.resources
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Home.resources
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ManagerHome.resources
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ManagerLogin.resources
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ManagerSignup.resources
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Staffadd.resources
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.StaffLogin.resources
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.StaffSignup.resources
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ViewEmployee.resources
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ViewLeave.resources
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ViewManager.resources
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ViewOption.resources
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Welcome.resources
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CopyComplete
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.exe
+D:\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe.config
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Employee Management System.pdb
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\MySql.Data.dll
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Buffers.dll
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Memory.dll
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Zstandard.Net.dll
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Google.Protobuf.pdb
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\Google.Protobuf.xml
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\MySql.Data.xml
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Buffers.xml
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Memory.xml
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AddManager.resources
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AddOption.resources
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AdminHome.resources
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AdminLogin.resources
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.DataView.resources
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.DeleteEmployee.resources
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.DeleteManager.resources
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EditEmployee.resources
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EditManagers.resources
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EditOption.resources
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EmpLeave.resources
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.EmployeeHome.resources
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Home.resources
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ManagerHome.resources
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ManagerLogin.resources
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ManagerSignup.resources
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Staffadd.resources
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.StaffLogin.resources
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.StaffSignup.resources
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ViewEmployee.resources
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ViewLeave.resources
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ViewManager.resources
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.ViewOption.resources
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Welcome.resources
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CopyComplete
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.exe
+C:\Users\ACER\Desktop\EMS Final\Employee Management System (2)\Employee Management System\Employee Management System\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\Employee Management System.exe.config
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\Employee Management System.exe
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\Employee Management System.pdb
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\MySql.Data.dll
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\System.Buffers.dll
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\System.Memory.dll
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\Zstandard.Net.dll
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\Google.Protobuf.pdb
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\Google.Protobuf.xml
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\MySql.Data.xml
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\System.Buffers.xml
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\System.Memory.xml
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.AddManager.resources
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.AddOption.resources
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.AdminHome.resources
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.AdminLogin.resources
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.DataView.resources
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.DeleteEmployee.resources
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.DeleteManager.resources
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.EditEmployee.resources
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.EditManagers.resources
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.EditOption.resources
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.EmpLeave.resources
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.EmployeeHome.resources
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.Home.resources
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.ManagerHome.resources
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.ManagerLogin.resources
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.ManagerSignup.resources
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.Staffadd.resources
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.StaffLogin.resources
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.StaffSignup.resources
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.ViewEmployee.resources
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.ViewLeave.resources
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.ViewManager.resources
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.ViewOption.resources
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.Welcome.resources
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee Management System.csproj.CopyComplete
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee Management System.exe
+C:\Users\ACER\Desktop\Group 5 - SURGE\Employee Management System\obj\Debug\Employee Management System.pdb
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\Employee Management System.exe.config
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\Employee Management System.exe
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\Employee Management System.pdb
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\MySql.Data.dll
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\System.Buffers.dll
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\System.Memory.dll
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\Zstandard.Net.dll
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\Google.Protobuf.pdb
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\Google.Protobuf.xml
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\MySql.Data.xml
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\System.Buffers.xml
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\System.Memory.xml
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.AddManager.resources
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.AddOption.resources
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.AdminHome.resources
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.AdminLogin.resources
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.DataView.resources
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.DeleteEmployee.resources
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.DeleteManager.resources
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.EditEmployee.resources
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.EditManagers.resources
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.EditOption.resources
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.EmpLeave.resources
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.EmployeeHome.resources
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.Home.resources
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.ManagerHome.resources
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.ManagerLogin.resources
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.ManagerSignup.resources
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.Staffadd.resources
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.StaffLogin.resources
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.StaffSignup.resources
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.ViewEmployee.resources
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.ViewLeave.resources
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.ViewManager.resources
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.ViewOption.resources
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee_Management_System.Welcome.resources
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee Management System.csproj.CopyComplete
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee Management System.exe
+C:\Users\chala\Downloads\Group 5 - SURGE\Group 5 - SURGE\Employee Management System\obj\Debug\Employee Management System.pdb
